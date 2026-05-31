@@ -224,3 +224,44 @@ pip install scikit-learn
 5. Generate forecasts and visualizations
 
 ---
+
+# Visualizations
+
+## Historical Sales Trend
+![Historical Sales Trend](visualizations/sales_history.png)
+
+---
+
+## Rolling Mean Trend
+![Rolling Mean](visualizations/rolling_mean.png)
+
+---
+
+## Weekly Seasonality
+![Weekly Pattern](visualizations/weekly_pattern.png)
+
+---
+
+## Train Test Split
+![Train Test Split](visualizations/train_test_split.png)
+
+---
+
+## Forecast vs Actual
+![Forecast vs Actual](visualizations/forecast_vs_actual.png)
+
+---
+
+## Forecast Errors
+![Forecast Errors](visualizations/forecast_errors.png)
+
+---
+
+## Residual Distribution
+![Residual Distribution](visualizations/residual_distribution.png)
+
+---
+
+## Cumulative Sales Trend
+![Cumulative Sales Trend](visualizations/cumulative_sales.png)
+
